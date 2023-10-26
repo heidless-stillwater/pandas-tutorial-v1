@@ -1,6 +1,15 @@
 pandas-tutorial-v1
 ==============================
 
+
+## conda
+```
+conda env list
+conda activate data-cleaning-0
+
+```
+
+
 A short description of the project.
 
 Project Organization
